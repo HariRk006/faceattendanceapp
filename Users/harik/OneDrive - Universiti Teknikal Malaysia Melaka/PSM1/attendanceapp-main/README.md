@@ -1,10 +1,11 @@
-# attendance2
+# Attendance Face Authentication
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Used https://github.com/serengil/deepface in this project for the Face authentication 
 
 A few resources to get you started if this is your first Flutter project:
 
