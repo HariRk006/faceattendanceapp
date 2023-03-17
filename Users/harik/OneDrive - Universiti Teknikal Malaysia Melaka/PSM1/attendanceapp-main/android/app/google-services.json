@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566650330933",
+    "project_id": "njrdevs-attendance",
+    "storage_bucket": "njrdevs-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566650330933:android:1612e34001a369dd91767c",
+        "android_client_info": {
+          "package_name": "me.hari.attendance.attendance2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566650330933-eee4g0s65ea8dah4t05d2vhh3gq7sr0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjQdr18FHUBn4LYEnLDlOMbPqWGnMjo8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566650330933-eee4g0s65ea8dah4t05d2vhh3gq7sr0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
